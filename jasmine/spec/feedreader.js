@@ -5,7 +5,7 @@
  * all of the tests that will be run against the application.
  */
 
-/* All of our tests have been placed within the $() function,
+/* All of the tests have been placed within the $() function,
  * since some of these tests may require DOM elements. This
  * ensures they don't run until the DOM is ready.
  */
